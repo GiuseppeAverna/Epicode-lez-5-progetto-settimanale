@@ -1,0 +1,86 @@
+html { font-size: 1.2em;
+    max-width: 500px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+#imagediv {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  
+}
+
+#firstdiv {
+    background-image: url(/Esercizio/images/banner.jpg);
+    text-align: center
+
+    
+    ;}
+
+h1 {
+    color:blue 
+    
+}
+
+button {
+    background-color: orangered;
+    color: white; ;
+}
+
+#notebook {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#seconddiv {
+    text-align: center;
+    color: blue;
+ 
+}
+
+#secondarticle { 
+    text-align: center;
+}
+
+#fourtharticle {
+    text-align: center;
+}
+
+#fiftharticle {
+    text-align: center;
+}
+
+#fourthdiv {
+    background-color: orangered;
+    color: white;
+    text-align: center;
+}
+
+
+#sixtharticle {
+    text-align: center;
+    width: 100%;
+  
+}
+
+
+#seventharticle {
+    text-align: center;
+    width: 100%;
+}
+
+
+#eightarticle {
+    text-align: center;
+    width: 100%;
+}
+
+footer {
+    background-color: aqua;
+    color:white;
+text-align: center;}
+
+
+.title {color: blue;}
